@@ -1,0 +1,13 @@
+D:\c++ projects\Project TO DO LISTS\bin\Debug\Project TO DO LISTS.exe.config
+D:\c++ projects\Project TO DO LISTS\bin\Debug\Project TO DO LISTS.exe
+D:\c++ projects\Project TO DO LISTS\bin\Debug\Project TO DO LISTS.pdb
+D:\c++ projects\Project TO DO LISTS\bin\Debug\Guna.UI.dll
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project TO DO LISTS.csproj.AssemblyReference.cache
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project_TO_DO_LISTS.Form1.resources
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project_TO_DO_LISTS.Properties.Resources.resources
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project TO DO LISTS.csproj.GenerateResource.cache
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project TO DO LISTS.csproj.CoreCompileInputs.cache
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project TO DO LISTS.csproj.CopyComplete
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project TO DO LISTS.exe
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project TO DO LISTS.pdb
+D:\c++ projects\Project TO DO LISTS\obj\Debug\Project_TO_DO_LISTS.Form2.resources
